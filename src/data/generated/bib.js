@@ -1,4 +1,4 @@
-﻿[
+﻿const generatedBibEntries = [
   {
     "title": "A Review of Password-less User Authentication Schemes",
     "authors": ["Tunde Oduguwa", "Abdullahi Arabo"],
